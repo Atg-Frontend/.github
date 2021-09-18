@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![image](https://user-images.githubusercontent.com/26592019/133890100-0ad394b5-0ae8-4f92-995f-1cc1ad6b6ce3.png)
+
 
 🙋‍♀️ A short introduction
 - “When I wrote this code, only God and I understood what I did. Now only God knows.”
