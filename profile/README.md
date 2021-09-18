@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+🙋‍♀️ A short introduction
+- “When I wrote this code, only God and I understood what I did. Now only God knows.”
+
+🌈 Contribution guidelines
+- “It’s not a bug — it’s an undocumented feature.”
+- “It works on my machine.” 
+
+👩‍💻 Useful resources
+- Google.com
+- Stackoverflow.com
+
+🍿 Fun facts
+- “99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …”
+
 <!--
 
 **Here are some ideas to get you started:**
