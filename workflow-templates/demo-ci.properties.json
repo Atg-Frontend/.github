@@ -1,0 +1,7 @@
+{
+    "name": "Workflow Template",
+    "description": "CI starter workflow.",
+    "filePatterns": [
+        "package.json$"
+    ]
+}
