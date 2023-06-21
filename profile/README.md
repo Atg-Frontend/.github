@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/26592019/133890100-0ad394b5-0ae8-4f92-995f-1cc1ad6b6ce3.png)
+<img width="1003" alt="Screenshot 2023-06-21 at 15 49 51" src="https://github.com/Atg-Frontend/.github/assets/26592019/f28125b5-c23e-4094-85ec-b76b76245a0d">
 
 
 🙋‍♀️ A short introduction
